@@ -3,7 +3,7 @@
     "browser": true,
     "camelcase": true,
     "curly": true,
-    "eqeqeq": true,
+    "eqeqeq": false,
     "eqnull": true,
     "forin": true,
     "freeze": true,
